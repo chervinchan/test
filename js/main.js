@@ -31,8 +31,6 @@ window.addEventListener('wheel', function (e) {
                 $('.slider_inner').click();
 
             }, 2000);
-
-
         }
     } else {
         scrollPosition -= 10;
